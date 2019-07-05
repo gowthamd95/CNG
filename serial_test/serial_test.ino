@@ -6,7 +6,7 @@ int j = 0;
 int k = 0;
 
 void setup() {
-Serial.begin(9600);              //Starting serial communication
+Serial.begin(115200);              //Starting serial communication
  
 }
   
